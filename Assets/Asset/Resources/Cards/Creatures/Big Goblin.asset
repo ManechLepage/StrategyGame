@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aef889b3e4b5f9b47be330057ddc6e82, type: 3}
+  m_Name: Big Goblin
+  m_EditorClassIdentifier: 
+  name: Big Goblin
+  description:
+  - 'When played: Gives +2/+0 to every other goblin in range.'
+  cost: 5
+  cardImage: {fileID: 21300000, guid: 83d4a3b6fb146b248bb3ebd4946d8aa5, type: 3}
+  type: Creature
+  attack: 4
+  health: 3
+  creatureClass: Goblin
